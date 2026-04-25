@@ -1,4 +1,4 @@
-# TalLabelRouter
+# TalLabelRouter-label-router-releases
 
 Automatically detect, extract, and print labels from your e-commerce PDFs. Built for sellers who handle multiple label types daily.
 
